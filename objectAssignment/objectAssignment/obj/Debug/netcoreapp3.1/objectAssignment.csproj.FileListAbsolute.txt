@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\solsticks\C-creal-life-mimic\objectAssignment\objectAssignment\bin\Debug\netcoreapp3.1\objectAssignment.exe
+C:\Users\hp\source\repos\solsticks\C-creal-life-mimic\objectAssignment\objectAssignment\bin\Debug\netcoreapp3.1\objectAssignment.deps.json
+C:\Users\hp\source\repos\solsticks\C-creal-life-mimic\objectAssignment\objectAssignment\bin\Debug\netcoreapp3.1\objectAssignment.runtimeconfig.json
+C:\Users\hp\source\repos\solsticks\C-creal-life-mimic\objectAssignment\objectAssignment\bin\Debug\netcoreapp3.1\objectAssignment.runtimeconfig.dev.json
+C:\Users\hp\source\repos\solsticks\C-creal-life-mimic\objectAssignment\objectAssignment\bin\Debug\netcoreapp3.1\objectAssignment.dll
+C:\Users\hp\source\repos\solsticks\C-creal-life-mimic\objectAssignment\objectAssignment\bin\Debug\netcoreapp3.1\objectAssignment.pdb
+C:\Users\hp\source\repos\solsticks\C-creal-life-mimic\objectAssignment\objectAssignment\obj\Debug\netcoreapp3.1\objectAssignment.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\solsticks\C-creal-life-mimic\objectAssignment\objectAssignment\obj\Debug\netcoreapp3.1\objectAssignment.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\solsticks\C-creal-life-mimic\objectAssignment\objectAssignment\obj\Debug\netcoreapp3.1\objectAssignment.AssemblyInfo.cs
+C:\Users\hp\source\repos\solsticks\C-creal-life-mimic\objectAssignment\objectAssignment\obj\Debug\netcoreapp3.1\objectAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\solsticks\C-creal-life-mimic\objectAssignment\objectAssignment\obj\Debug\netcoreapp3.1\objectAssignment.dll
+C:\Users\hp\source\repos\solsticks\C-creal-life-mimic\objectAssignment\objectAssignment\obj\Debug\netcoreapp3.1\objectAssignment.pdb
+C:\Users\hp\source\repos\solsticks\C-creal-life-mimic\objectAssignment\objectAssignment\obj\Debug\netcoreapp3.1\objectAssignment.genruntimeconfig.cache
