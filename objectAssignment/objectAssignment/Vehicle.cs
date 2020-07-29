@@ -30,5 +30,13 @@ namespace objectAssignment
         {
             // this turns of the vehicle.
         }
+
+        public Vehicle(string type, string model, int numOfTires, string colour)
+        {
+            this.Type = type;
+            this.Model = model;
+            this.NumOfTires = numOfTires;
+            this.Colour = colour;
+        }
     }
 }
