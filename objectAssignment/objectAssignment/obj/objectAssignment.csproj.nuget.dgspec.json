@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\solsticks\\C-creal-life-mimic\\objectAssignment\\objectAssignment\\objectAssignment.csproj": {}
+    "C:\\Users\\hp\\Source\\Repos\\solsticks\\C-creal-life-mimic\\objectAssignment\\objectAssignment\\objectAssignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\solsticks\\C-creal-life-mimic\\objectAssignment\\objectAssignment\\objectAssignment.csproj": {
+    "C:\\Users\\hp\\Source\\Repos\\solsticks\\C-creal-life-mimic\\objectAssignment\\objectAssignment\\objectAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\solsticks\\C-creal-life-mimic\\objectAssignment\\objectAssignment\\objectAssignment.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\solsticks\\C-creal-life-mimic\\objectAssignment\\objectAssignment\\objectAssignment.csproj",
         "projectName": "objectAssignment",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\solsticks\\C-creal-life-mimic\\objectAssignment\\objectAssignment\\objectAssignment.csproj",
+        "projectPath": "C:\\Users\\hp\\Source\\Repos\\solsticks\\C-creal-life-mimic\\objectAssignment\\objectAssignment\\objectAssignment.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\solsticks\\C-creal-life-mimic\\objectAssignment\\objectAssignment\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Source\\Repos\\solsticks\\C-creal-life-mimic\\objectAssignment\\objectAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
